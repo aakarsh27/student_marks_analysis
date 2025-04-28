@@ -14,3 +14,7 @@ In this notebook:
 - NumPy array operations (mean calculation)  
 - Data Cleaning (handling missing data)  
 - Data Visualization (basic plots)
+
+**Goal:**  
+Learn and apply fundamental **Data Science** concepts through a hands-on project, rather than just theory or copy-pasting.
+
