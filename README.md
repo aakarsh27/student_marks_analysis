@@ -8,3 +8,9 @@ In this notebook:
 - 📈 Calculated each student's average marks
 - 🏆 Identified the top scorer
 - 🎨 Visualized the data using bar plots and box plots
+
+**Skills Practiced:**  
+- pandas DataFrame operations (creation, exploration, manipulation)  
+- NumPy array operations (mean calculation)  
+- Data Cleaning (handling missing data)  
+- Data Visualization (basic plots)
