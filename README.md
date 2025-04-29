@@ -17,4 +17,3 @@ In this notebook:
 
 **Goal:**  
 Learn and apply fundamental **Data Science** concepts through a hands-on project, rather than just theory or copy-pasting.
-
